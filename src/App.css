@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+body{
+    background-color: #34495e;
+}
+.footer {
+  background-color: #34495e;
+  color: #ecf0f1;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.footer a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
