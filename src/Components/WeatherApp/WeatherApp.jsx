@@ -120,7 +120,7 @@ export const WeatherApp = () => {
         </div>
         <div className="item">
           <img src={cloud_icon} alt="" />
-          <p>Clear</p>
+          <p>Cloud</p>
         </div>
         <div className="item">
           <img src={drizzle_icon} alt="" />
